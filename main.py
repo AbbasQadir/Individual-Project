@@ -1,0 +1,2 @@
+name= 'Abbas'
+print(name)
