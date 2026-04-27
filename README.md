@@ -2,8 +2,7 @@
 
 **A Comparative Study of Neural Network and Machine Learning Models for Customer Churn Prediction within Telecommunications**
 
-Abbas Qadir | 220216957 | Aston University | April 2026  
-Supervisor: Dr Farzaneh Farhadi
+Aston University | April 2026
 
 ---
 
